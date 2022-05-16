@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="ke.api.models.MPAccount.objects" />
+          <option value="ke.api.models.Shops.objects" />
+          <option value="ke.api.models.Products.objects" />
+          <option value="ke.api.models.SKU.objects" />
+          <option value="ke.api.models.FactoryProducts.objects" />
+          <option value="ke.api.models.Invoice.objects" />
+          <option value="ke.api.models.FactorySKU.objects" />
+          <option value="ke.api.models.InvoiceItem.objects" />
+          <option value="models.InvoiceExpense.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
