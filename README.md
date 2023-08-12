@@ -4,9 +4,8 @@
 ## I little bit about me
 
 
-
+🖥️ &nbsp;Python developer with expertise in core machine learning algorithms and concepts, specializing in efficient code design for impactful applications.
 🌱 &nbsp;I'm on track with learning more about Software Architecture.\
-🎓 &nbsp;I'm currently studying at school 21 (ecole 42).\
 💬 &nbsp;Lets Networking! Feel free to pick a slot on [Calendly](https://calendly.com/din-latypov/30min/) to talk with me.\
 ✍️ &nbsp;In my free time, I enjoy calisthenics and guitar playing.
 
